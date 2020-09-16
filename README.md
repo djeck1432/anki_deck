@@ -3,7 +3,7 @@
 ## How to install
 
 ```bash
-pip3 install anki-deck
+pip3 install ankideck
 ```
 
 
@@ -53,7 +53,7 @@ export_ankipkg(deck,export_path)
 
 # Examples
 ```python
-from anki_export import *
+from ankideck import *
 
 def create_anki_cards():
     #create new deck

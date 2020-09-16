@@ -53,8 +53,6 @@ export_ankipkg(deck,export_path)
 
 # Examples
 ```python
-from ankideck import *
-
 def create_anki_cards():
     #create new deck
     deck = getEmptyCol()

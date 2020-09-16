@@ -3,7 +3,7 @@
 ## How to install
 
 ```bash
-pip3 install anki_export
+pip3 install anki_deck
 ```
 
 

@@ -14,7 +14,7 @@ The first step is to create a new deck:
 
 If you want to create new deck :
 ```python
-    deck = getEmptyCol()
+deck = getEmptyCol()
 ```
  Add a new card:
 

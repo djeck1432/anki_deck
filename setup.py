@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="anki_deck", # Replace with your own username
+    name="ankideck",
     version="0.0.1",
     author="Djeck",
     author_email="work7kost@gmail.com",
